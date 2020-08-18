@@ -1,6 +1,8 @@
 # Readme--PINet
 
-This is the our implementation for the paper: π-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations.
+This is the our implementation for the paper: 
+
+Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma, de Rijke, Maarten (2019). $\pi$-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations. SIGIR'19, Paris, France, July 21-25, 2019
 
 We build and release a shared-account smart TV recommendation dataset HVIDEO to facilitate research for SCSR.
 
