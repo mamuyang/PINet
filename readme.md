@@ -27,3 +27,28 @@ We randomly divide the data sets into training set(75%), test set(10%), valid se
 
 # Code description #
 
+## version ##
+Python 3.6
+
+Tensorflow 1.12.0
+
+## baseline ##
+1. POP, Item-KNN, BPR-MF see: [url](https://github.com/hidasib/GRU4Rec)
+
+2. Conet see: Code.zip/baseline/Conet, which is quoted from "Conet: Collaborative Cross Networks for Cross-Domain Recommendation"
+
+3. VUI-KNN see: Code.zip/baseline/VUI-KNN/, preprocess.py is the pre-processing code that generates  the input data needed by code vui-knn.py.
+
+4. NCF-MLP++ see: Code.zip/baseline/ncfmlp.py, which is quoted from "Neural Collaborative Filtering"
+
+5. GRU4REC see: Code.zip/baseline/GRU4REC.py, which is implemented in Tensorflow
+
+6. HGRU4REC see: Code.zip/baseline/HRNN.py, which is implemented in Tensorflow
+
+## pinet code##
+
+1. PINET model see: Code.zip/PINET/PiNet.py
+
+2. No SFU see: Code.zip/PINET/PiNet_WSFU.py
+
+3. No SFUCTU see: Code.zip/PINET/PiNet_WSFUACTU.py
