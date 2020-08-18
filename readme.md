@@ -45,7 +45,7 @@ Tensorflow 1.12.0
 
 6. HGRU4REC see: Code.zip/baseline/HRNN.py, which is implemented in Tensorflow
 
-## pinet code##
+## pinet code ##
 
 1. PINET model see: Code.zip/PINET/PiNet.py
 
